@@ -14,3 +14,5 @@ Points to note:
 2) Account for all possible requests that may come for the data in your API design.
 3) Justify your database design
 4) Checkin the code to the repo you have been invited to.
+
+![Image](https://user-images.githubusercontent.com/104366682/175945340-34fd1725-c4ba-4b9a-9db4-8b9577f3d72e.png)
