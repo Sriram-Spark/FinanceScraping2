@@ -1,5 +1,3 @@
-# FinanceScraping
-
 Write a script that can extract the following data sections(look to the right on the site) from Yahoo Finance
 Cryptocurrencies
 Trending Tickers
