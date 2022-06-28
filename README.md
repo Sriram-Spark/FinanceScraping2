@@ -1,10 +1,10 @@
 Write a script that can extract the following data sections(look to the right on the site) from Yahoo Finance
 
-Cryptocurrencies,
-Trending Tickers,
-Stocks: Most Active,
-Stocks: Gainers,
-Stocks: Losers
+1) Cryptocurrencies,
+2) Trending Tickers,
+3) Stocks: Most Active,
+4) Stocks: Gainers,
+5) Stocks: Losers
 
 This script should run periodically.
 
